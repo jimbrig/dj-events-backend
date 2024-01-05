@@ -1,7 +1,8 @@
 repo_name: jimbrig/dj-events-backend
 report_id: daa429dcdb8b9ec89b3c2022a92abb41
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:29:05+00:00'
+timestamp: '2024-01-05T08:28:17+00:00'
 requested_by: bradtraversy
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jimbrig/dj-events-backend
   detection_source: Repo Metadata
 - name: PostgreSQL
   description: A powerful, open source object-relational database system
@@ -25,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -37,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -60,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -71,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/dj-events-backend
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -80,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -91,6 +99,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -102,6 +111,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Self-Hosted Blogging / CMS
   image_url: https://img.stackshare.io/service/9983/default_1a891f894a412457227c52eeef88470d883a6367.png
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -115,7 +125,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -136,7 +146,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16197/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
-  detection_source_url: github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -150,7 +160,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
-  detection_source_url: github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
@@ -164,7 +174,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
-  detection_source_url: github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
+  detection_source_url: https://github.com/jimbrig/dj-events-backend/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Brad Traversy
   last_updated_on: 2021-04-13 14:15:40.000000000 Z
